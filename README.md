@@ -1,5 +1,5 @@
 # Retail Price Optimization Dashboard
-
+![Dashboard Screenshot](https://github.com/wahidur0547/Retail-Price-Optimization-Dashboard/assets/141988307/b12241ed-2b49-4664-a60b-3b889cce0b40)
 ## Overview
 
 This project aims to optimize retail prices by analyzing various factors that influence pricing decisions. Using exploratory data analysis (EDA) and machine learning techniques, we build a comprehensive dashboard to visualize key insights. The dashboard helps in understanding customer behavior, market trends, and pricing strategies to maximize profits.
